@@ -133,7 +133,7 @@
             <plugin>
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
-                <version>3.7.0.1746</version> <!-- Compatible with Java 11 -->
+                <version>3.5.0.1254</version> <!-- Compatible with Java 11 -->
             </plugin>
 
                  <plugin>
